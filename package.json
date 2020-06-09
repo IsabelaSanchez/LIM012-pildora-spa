@@ -1,0 +1,20 @@
+{
+  "name": "lim012-pildora-spa",
+  "version": "1.0.0",
+  "description": "Practice Single Page Application to use it on the Social Network Proyect",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx serve src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabelaSanchez/LIM012-pildora-spa.git"
+  },
+  "author": "Isabela Sanchez (https://github.com/IsabelaSanchez)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsabelaSanchez/LIM012-pildora-spa/issues"
+  },
+  "homepage": "https://github.com/IsabelaSanchez/LIM012-pildora-spa#readme"
+}
